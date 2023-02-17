@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@ant-design/pro-components": "2.3.54",
+    "antd": "5.2.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "keywords": [],
+  "name": "procomponent-protable",
+  "description": ""
+}
